@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aleks Haecky</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">My name is Aleks.\n
+        I was born in Antalya at the 22th of january in 1991.\n\n
+        I ve completed my primary and elementary education at Maresal Musatafa Kemal primary school.\n\n
+        And now Im studying at Selcuklu Anatolian Teacher Highschool.\n
+        I have a simple family which has 5 people.\n\n
+        My fathers name is Bora , my mothers name is Gül and my brothers (sisters) names are Hakan and Ege.\n\n
+        My father is an accounter. And my mother is a teacher.
+        Im the oldest one in my brothers.
+
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
